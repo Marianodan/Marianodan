@@ -1,7 +1,7 @@
 ### Olá! Eu sou Daniel Mariano 👋
  
 
-- 🔭 Hoje estou em busca de um trabalho como desenvolvedor
+- 🔭 Estou em busca de uma oportunidade como desenvolvedor
 - 🌱 Estudando Desenvolvimento Web
 - ✉️ Contate-me no e-mail: danielmariano38@hotmail.com
 - 😄 Pronouns: ele/dele
